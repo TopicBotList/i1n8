@@ -13,6 +13,3 @@ Localization/Translation files for the Topic Bot List Website
 ## Contributors
 <a href="https://github.com/TopicBotList/i1n8/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=TopicBotList/i1n8" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
