@@ -5,13 +5,13 @@ module.exports = {
     main_nav: {
       about: 'Om oss',
       discord: 'Disharmoni',
-      all_bots: 'Bots',
+       bots: 'Bots',
       partners: 'Partners',
     },
     /** User Nav Text */
     user_nav: {
       profile: 'Profil',
       add_bot: 'Lägg till bot',
-      cert_bot: 'Certifiering',
+      certfi_bot: 'Certifiering',
     },
   };
