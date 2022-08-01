@@ -5,13 +5,13 @@ module.exports = {
   main_nav: {
     about: 'About',
     discord: 'Discord',
-    all_bots: 'Bots',
+    bots: 'Bots',
     partners: 'Partners',
   },
   //user nav
   user_nav: {
     profile: 'Profile',
     add_bot: 'Add Bot',
-    cert_bot: 'Certification',
+    certfi_bot: 'Certification',
   },
 };
