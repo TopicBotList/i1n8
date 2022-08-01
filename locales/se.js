@@ -11,7 +11,6 @@ module.exports = {
     /** User Nav Text */
     user_nav: {
       profile: 'Profil',
-      panel: 'Panel',
       add_bot: 'Lägg till bot',
       cert_bot: 'Certifiering',
     },
